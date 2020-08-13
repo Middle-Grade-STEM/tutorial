@@ -1,0 +1,17 @@
+p {
+    color: red;
+    font-family: sans-serif;
+}
+
+body {
+    color: white;
+    background-color: black;
+}
+
+a {
+    color: green;
+}
+
+.kip {
+    width: 25%;
+}
